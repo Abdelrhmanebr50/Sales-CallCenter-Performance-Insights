@@ -17,7 +17,7 @@ A high-level summary of the business health, combining key metrics from both sal
 - **Top Regions:** Identification of high-growth regions (Cairo, Alexandria, Giza, Delta).
 - **Product Performance:** Analyzing revenue distribution across different products.
 - **Monthly Trends:** Tracking sales fluctuations to identify peak seasons.
-![Sales Analysis](Sales%Performance.png)
+![Sales Analysis](Sales_Performance.png)
 
 ---
 
@@ -25,7 +25,7 @@ A high-level summary of the business health, combining key metrics from both sal
 - **Service Quality:** Measuring Average Customer Satisfaction across different agents.
 - **Operational Efficiency:** Analyzing call durations and their impact on resolution.
 - **Problem Solving:** Tracking the success rate of resolved vs. unresolved issues.
-![Call Center Analysis](Call%Center%Analysis.png)
+![Call Center Analysis](Call_Center_Analysis.png)
 
 ## 🛠️ Tech Stack
 - **Microsoft Excel:** Data Cleaning, Power Query, Pivot Tables, and Dashboarding.
