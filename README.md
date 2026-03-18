@@ -25,7 +25,7 @@ A high-level summary of the business health, combining key metrics from both sal
 - **Service Quality:** Measuring Average Customer Satisfaction across different agents.
 - **Operational Efficiency:** Analyzing call durations and their impact on resolution.
 - **Problem Solving:** Tracking the success rate of resolved vs. unresolved issues.
-![Call Center Analysis](call%20center.png)
+![Call Center Analysis](Call%Center%Analysis.png)
 
 ## 🛠️ Tech Stack
 - **Microsoft Excel:** Data Cleaning, Power Query, Pivot Tables, and Dashboarding.
